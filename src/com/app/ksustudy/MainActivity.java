@@ -1,15 +1,14 @@
 package com.app.ksustudy;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.GridView;
 import android.widget.AdapterView.OnItemClickListener;
+import android.widget.GridView;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -29,8 +28,9 @@ public class MainActivity extends ActionBarActivity {
 			@Override
 			public void onItemClick(AdapterView<?> arg0, View arg1, int arg2,
 					long arg3) {
-				// TODO Auto-generated method stub
-				
+
+				Intent intent = new Intent(MainActivity.this, ActivityGroup.class);
+				startActivity(intent); 
 			}
         	
         });

@@ -1077,17 +1077,25 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int abs_ekonom=0x7f020057;
-        public static final int abs_ekonom_b=0x7f020058;
-        public static final int abs_fizmat=0x7f020059;
-        public static final int abs_fizmat_w=0x7f02005a;
-        public static final int abs_kulimist=0x7f02005b;
-        public static final int abs_kulimist_w=0x7f02005c;
-        public static final int abs_psiholog=0x7f02005d;
-        public static final int abs_psiholog_w=0x7f02005e;
-        public static final int abs_sport=0x7f02005f;
-        public static final int abs_sport_w=0x7f020060;
-        public static final int ic_launcher=0x7f020061;
+        public static final int abs_eg=0x7f020057;
+        public static final int abs_ekonom=0x7f020058;
+        public static final int abs_ekonom_b=0x7f020059;
+        public static final int abs_five=0x7f02005a;
+        public static final int abs_fizmat=0x7f02005b;
+        public static final int abs_fizmat_w=0x7f02005c;
+        public static final int abs_four=0x7f02005d;
+        public static final int abs_kulimist=0x7f02005e;
+        public static final int abs_kulimist_w=0x7f02005f;
+        public static final int abs_one=0x7f020060;
+        public static final int abs_psiholog=0x7f020061;
+        public static final int abs_psiholog_w=0x7f020062;
+        public static final int abs_seven=0x7f020063;
+        public static final int abs_six=0x7f020064;
+        public static final int abs_sport=0x7f020065;
+        public static final int abs_sport_w=0x7f020066;
+        public static final int abs_three=0x7f020067;
+        public static final int abs_two=0x7f020068;
+        public static final int ic_launcher=0x7f020069;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1203,8 +1211,9 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
-        public static final int activity_main=0x7f030018;
-        public static final int support_simple_spinner_dropdown_item=0x7f030019;
+        public static final int activity_group=0x7f030018;
+        public static final int activity_main=0x7f030019;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
